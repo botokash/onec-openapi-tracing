@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="949a9237-e33f-4092-ae5e-5702d275a62a">
+  <name>REST</name>
+  <synonym>
+    <key>ru</key>
+    <value>REST</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>CommonModule.ОбработкаВызоваREST</content>
+  <content>CommonModule.ОписаниеREST</content>
+  <content>CommonModule.УправлениеRESTПовтИсп</content>
+  <content>CommonTemplate.СпецификацияСтраницаREST</content>
+  <content>Catalog.СервисыREST</content>
+  <content>Catalog.РесурсыREST</content>
+  <content>Catalog.МетодыРесурсовREST</content>
+  <content>Enum.МетодыЗапросаREST</content>
+  <content>Enum.ТипыОтветовREST</content>
+  <content>Catalog.СтруктурыДанныхREST</content>
+  <content>Enum.ТипыСтруктурДанныхREST</content>
+  <content>CommonModule.УправлениеREST</content>
+  <content>CommonModule.СпецификацияREST</content>
+  <content>CommonModule.ОбщегоНазначенияREST</content>
+  <content>CommonModule.ЛогированиеREST</content>
+  <content>CommonTemplate.СпецификацияСтилиСтраницыREST</content>
+  <content>CommonTemplate.СпецификацияСкриптыСтраницыREST</content>
+  <content>CommonTemplate.СпецификацияИконка16СтраницыREST</content>
+  <content>CommonTemplate.СпецификацияИконка32СтраницыREST</content>
+</mdclass:Subsystem>

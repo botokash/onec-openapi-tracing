@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonTemplate xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a1f7ad73-61b8-4d19-8e5b-a342f9173fa6">
+  <name>СпецификацияСтилиСтраницыREST</name>
+  <synonym>
+    <key>ru</key>
+    <value>REST: Стили страницы спецификации</value>
+  </synonym>
+  <templateType>TextDocument</templateType>
+</mdclass:CommonTemplate>

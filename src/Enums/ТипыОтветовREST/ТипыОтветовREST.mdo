@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fa14c9a4-a2fc-4dbf-b4c6-c663cfd43288">
+  <producedTypes>
+    <refType typeId="79845d4f-17a3-415f-822b-7db919f1ae4c" valueTypeId="5bdd83ab-d738-44f1-8b57-426360c3a715"/>
+    <listType typeId="ea164d22-2b9e-43bc-b195-6d483e3c6ef2" valueTypeId="2ee39b64-cfb3-4a7a-91c2-90fa98f035c0"/>
+    <managerType typeId="0322e2b2-d4f6-4d72-acd5-ed54fb0382b4" valueTypeId="d462accf-45ef-4a61-8e7e-f6fbfb4cd0fb"/>
+  </producedTypes>
+  <name>ТипыОтветовREST</name>
+  <synonym>
+    <key>ru</key>
+    <value>REST: Типы ответов</value>
+  </synonym>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Order</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <standardAttributes>
+    <dataHistory>Use</dataHistory>
+    <name>Ref</name>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </standardAttributes>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="0cdcc0c2-d224-4fa0-9b55-5656ed9e29c3">
+    <name>Успешно</name>
+    <synonym>
+      <key>ru</key>
+      <value>Успешно</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="c0d8e2ac-5947-44c9-842b-a970b8b1a327">
+    <name>ОшибкаНеКорректныйЗапрос</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ошибка: Не корректный запрос</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="2a500ad8-f504-424c-82d8-645c5cb46ce5">
+    <name>ОшибкаНеАвторизован</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ошибка: Не авторизован</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="3ff63dde-3b90-413b-96bd-9edc70c8fd62">
+    <name>ОшибкаНетДоступа</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ошибка: Нет доступа</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="0d2e7ca0-d2a2-4f0d-845b-dd3fb2059185">
+    <name>ОшибкаНеНайдено</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ошибка: Не найдено</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="e6d5b981-03bc-42c9-ae1b-72e29589f3b8">
+    <name>ОшибкаМетодНеПоддерживается</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ошибка: Метод не поддерживается</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="0c08dc20-753a-454a-9168-6a2b3fc5eaea">
+    <name>ОшибкаСпецификации</name>
+    <synonym>
+      <key>ru</key>
+      <value>Ошибка спецификации</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="58090f9a-dd5d-4a34-bd11-daf074f0db59">
+    <name>ВнутренняяОшибка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Внутренняя ошибка</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

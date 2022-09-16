@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3dd90492-0b29-4204-b4bb-161527c6d288">
+  <name>TechnoIntegration</name>
+  <synonym>
+    <key>ru</key>
+    <value>Techno integration</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="413e8515-9c7e-488e-bd20-1a8073d1e4cd"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="1de8c291-5282-42dd-b827-4dc4db5eb344"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="696a51f7-5502-4bcb-9781-0e5834f927e8"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="fb228992-1362-4cdf-a1a0-70e25d30a13b"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="527b9842-1e94-4f14-8675-3d216a02f49d"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="5f9f77bc-bd1f-46a4-97fc-1cbf4c78b740"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="f95c8624-ef23-4d26-b7fd-b9ca45757160"/>
+  <configurationExtensionCompatibilityMode>8.3.18</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>TDO AIS</vendor>
+  <version>2022.1.0</version>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <copyright>
+    <key>ru</key>
+    <value>© АО «Technodom Operator» 2002—2022</value>
+  </copyright>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.18</compatibilityMode>
+  <languages uuid="dd003684-2b6e-4390-b16c-cc2a16ccfe0e">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <subsystems>Subsystem.APM</subsystems>
+  <subsystems>Subsystem.REST</subsystems>
+  <commonTemplates>CommonTemplate.СпецификацияИконка16СтраницыREST</commonTemplates>
+  <commonTemplates>CommonTemplate.СпецификацияИконка32СтраницыREST</commonTemplates>
+  <commonTemplates>CommonTemplate.СпецификацияСкриптыСтраницыREST</commonTemplates>
+  <commonTemplates>CommonTemplate.СпецификацияСтилиСтраницыREST</commonTemplates>
+  <commonTemplates>CommonTemplate.СпецификацияСтраницаREST</commonTemplates>
+  <commonModules>CommonModule.TracingAPM</commonModules>
+  <commonModules>CommonModule.ЛогированиеREST</commonModules>
+  <commonModules>CommonModule.ОбработкаВызоваREST</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначенияREST</commonModules>
+  <commonModules>CommonModule.ОписаниеREST</commonModules>
+  <commonModules>CommonModule.СпецификацияREST</commonModules>
+  <commonModules>CommonModule.УправлениеREST</commonModules>
+  <commonModules>CommonModule.УправлениеRESTПовтИсп</commonModules>
+  <catalogs>Catalog.МетодыРесурсовREST</catalogs>
+  <catalogs>Catalog.РесурсыREST</catalogs>
+  <catalogs>Catalog.СервисыREST</catalogs>
+  <catalogs>Catalog.СтруктурыДанныхREST</catalogs>
+  <enums>Enum.МетодыЗапросаREST</enums>
+  <enums>Enum.ТипыОтветовREST</enums>
+  <enums>Enum.ТипыСтруктурДанныхREST</enums>
+</mdclass:Configuration>

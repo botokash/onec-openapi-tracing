@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:CommonTemplate xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="58f5992a-f3c9-4fd2-a257-5f8ba3f0e6d1">
+  <name>СпецификацияИконка32СтраницыREST</name>
+  <synonym>
+    <key>ru</key>
+    <value>REST: Иконка 32х32 страницы спецификации</value>
+  </synonym>
+  <templateType>BinaryData</templateType>
+</mdclass:CommonTemplate>
